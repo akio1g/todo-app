@@ -14,17 +14,17 @@ A "To-Do" list is an effective personal organization tool that can help you keep
 
 ### Tela principal
 
-![Untitled](To%20Do%2074a095bc480449ad8d8594cfc1ec5f5d/Untitled.png)
+![Untitled](https://github.com/akio1g/todo-app/assets/71736094/f191a945-18bb-44ab-802e-719df8837768)
 
 ### Menu Lateral
 
-![Untitled](To%20Do%2074a095bc480449ad8d8594cfc1ec5f5d/Untitled%201.png)
+![Untitled (1)](https://github.com/akio1g/todo-app/assets/71736094/953692b7-2000-4dce-8047-ecb4218e8c90)
 
 ## Temas do Sistema
 
 ### Paleta de Cores
 
-![Pallete .png](To%20Do%2074a095bc480449ad8d8594cfc1ec5f5d/Pallete_.png)
+![Pallete ](https://github.com/akio1g/todo-app/assets/71736094/559e6048-68cb-44e1-8173-ded687e6efe2)
 
 ### Referências
 
