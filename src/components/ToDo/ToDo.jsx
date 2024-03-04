@@ -32,7 +32,9 @@ const ToDo = () => {
     forceUpdate();
 
     setTimeout(() => {
-      task.setHide();forceUpdate();}, 1000);
+      task.setHide();
+      forceUpdate();
+    }, 1000);
   }
 
   return (
